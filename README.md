@@ -1,8 +1,7 @@
 # Natours - Responsive HTML Static page
 
-<p align="center">
-  ![enter image description here](https://github.com/rakhimovkamran/natours-page/blob/master/assets/img/app.png?raw=true)
-</p>
+![enter image description here](https://github.com/rakhimovkamran/natours-page/blob/master/assets/img/app.png?raw=true)
+
 
 ## Tech Stack
 
