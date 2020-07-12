@@ -1,13 +1,23 @@
 # Natours - Responsive HTML Static page
 
+## Description
+Natours is a pretty simple and beautiful site. It has a responsive design and not a single line of JavaScript code was used during development. No CSS libraries except NormalizeCSS were used.
+
 ![enter image description here](https://github.com/rakhimovkamran/natours-page/blob/master/assets/img/app.png?raw=true)
 
+## Features
+
+ - **Full CSS and HTML Code**
+ - **No JavaScript and other librariess**
+ - **Responsive Design**
+ - **BEM Metodology**
+ - **Convenient User Experience**
 
 ## Tech Stack
 
- - **HTML5**
- - **CSS3**
- - **Normalize**
+ - **HTML 5**
+ - **CSS 3**
+ - **Normalize CSS**
 
 
 ## Author
